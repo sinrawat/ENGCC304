@@ -12,7 +12,7 @@ int isPrime(int num) {
 int main() {
     int n;
 
-    printf("Enter N : ");
+    printf("enter N : ");
     scanf("%d", &n);
 
     int arr[n];
