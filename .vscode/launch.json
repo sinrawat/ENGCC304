@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/admin/ENGCC304/lab",
-      "program": "/Users/admin/ENGCC304/lab/build/Debug/outDebug"
+      "cwd": "/Users/admin/ENGCC304",
+      "program": "/Users/admin/ENGCC304/build/Debug/outDebug"
     }
   ]
 }
