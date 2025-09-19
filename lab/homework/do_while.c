@@ -11,7 +11,7 @@ int main() {
         do {
             isPrime = 1;
             j = 2;
-            while (j * j <= i) {
+            while (j < i) {
                 if (i % j == 0) {
                     isPrime = 0;
                     break;
