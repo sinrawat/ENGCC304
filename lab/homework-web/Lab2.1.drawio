@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="ข้าวผัดกระเพราหมูกรอบ+ไข่เยี่ยวม้า" id="p9iXMIXw6AXdbXsWQ5T2">
+    <mxGraphModel dx="937" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="03XxmkBTDgQwuyv4ktks-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-4" value="เตรียมอุปกรณ์ครัว\n(กระทะ, มีด, เขียง, ชาม, ตะหลิว)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-5" value="ตรวจสอบวัตถุดิบ\n(ข้าว, หมู, พริก, กระเทียม, ใบกระเพรา, ไข่เยี่ยวม้า)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-6" value="มีหมูกรอบสำเร็จหรือไม่?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-7" value="ใช้หมูกรอบสำเร็จ\n(หั่นเตรียมไว้)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6" vertex="1" parent="1">
+          <mxGeometry x="660" y="440" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-8" value="ทำหมูกรอบเอง:\nล้าง, บั้งหนัง, ลวก, ผึ่ง, ทอดกรอบ, หั่นชิ้น" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-9" value="เตรียมส่วนผัด\n(ข้าว, พริก, กระเทียม, ใบกระเพรา)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-10" value="ทอดกระเพรากรอบไหม?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-11" value="ทอดใบกระเพรา\n(ไฟแรง 10-20 วิ)\nสะเด็ดน้ำมัน เก็บไว้" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6" vertex="1" parent="1">
+          <mxGeometry x="660" y="650" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-12" value="ใช้ใบกระเพราสดตอนผัด" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-13" value="ขั้นตอนผัด:\n1. ตั้งกระทะ ใส่น้ำมัน\n2. เจียวกระเทียม+พริก\n3. ใส่ข้าว ผัดร่วน\n4. ปรุงรส\n5. ใส่หมูกรอบ\n6. ใส่ใบกระเพรา ปิดไฟ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="440" y="770" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-14" value="จัดจาน:\nตักข้าวผัดใส่จาน\nวางหมูกรอบ+ไข่เยี่ยวม้า\nโรยกระเพรากรอบ (ถ้ามี)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="440" y="930" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-15" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366" vertex="1" parent="1">
+          <mxGeometry x="460" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-16" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-3" target="03XxmkBTDgQwuyv4ktks-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-17" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-4" target="03XxmkBTDgQwuyv4ktks-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-18" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-5" target="03XxmkBTDgQwuyv4ktks-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-19" value="ไม่" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-6" target="03XxmkBTDgQwuyv4ktks-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-20" value="ใช่" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-6" target="03XxmkBTDgQwuyv4ktks-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-21" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-7" target="03XxmkBTDgQwuyv4ktks-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-22" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-8" target="03XxmkBTDgQwuyv4ktks-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-23" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-9" target="03XxmkBTDgQwuyv4ktks-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-24" value="ใช่" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-10" target="03XxmkBTDgQwuyv4ktks-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-25" value="ไม่" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-10" target="03XxmkBTDgQwuyv4ktks-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-26" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-11" target="03XxmkBTDgQwuyv4ktks-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-27" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-12" target="03XxmkBTDgQwuyv4ktks-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-28" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-13" target="03XxmkBTDgQwuyv4ktks-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03XxmkBTDgQwuyv4ktks-29" style="endArrow=classic;" edge="1" parent="1" source="03XxmkBTDgQwuyv4ktks-14" target="03XxmkBTDgQwuyv4ktks-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
