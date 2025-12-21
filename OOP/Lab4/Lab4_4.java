@@ -23,7 +23,7 @@ class Location {
     }
 }
 
-public class Lab4_04 {
+public class Lab4_4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -42,3 +42,4 @@ public class Lab4_04 {
         scanner.close();
     }
 }
+
